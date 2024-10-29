@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    /* background: rgb(44,103,208); */
+    background: linear-gradient(149deg, rgba(44,103,208,1) 5%, rgba(243,243,255,1) 49%);
+}
+.navbar1,.navbar{
+    box-shadow: 0 0 10px black;
+    border-radius: 8px;
+}
+.navbar-brand{
+    margin-left:80px;
+}
+.align-top{
+    border-radius: 50%;
+}
+.col-sm{
+   background-color: rgba(255, 255, 255, 0.677);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 50px;
+    
+}
+.col2{
+    height:450px;
+    text-align: center;
+    font-size: 30px;
+    color:rgb(44,103,208) ;
+}
+ 
+ .form-control{
+    box-shadow:  0 0 5px black;
+ }
+ .count{
+    background-color: rgba(113, 165, 238, 0.526);
+    margin:4px;
+    border-radius: 5px;
+    padding:5px;
+ }
+
+ 
